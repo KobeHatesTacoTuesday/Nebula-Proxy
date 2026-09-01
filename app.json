@@ -1,0 +1,5 @@
+{
+	"name": "Nebula Browser",
+	"description": "Self-hosted browser with a built-in Scramjet proxy",
+	"keywords": ["browser", "proxy", "scramjet"]
+}

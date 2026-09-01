@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: nebula-browser
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: ACCESS_KEY
+        generateValue: true
